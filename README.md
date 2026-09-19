@@ -3,7 +3,7 @@ I'm Travis, a software engineer based in Atlanta, GA.
 
 I like to build things that help my daily life and learn new technology while I'm at it. 
 
-Currently
+Currently  
 💻 Building and improving full-stack projects  
 🌱 Learning more about AI, machine learning, and cloud technologies  
 🛠️ Working with Java, Python, JavaScript/TypeScript, SQL, and React  
