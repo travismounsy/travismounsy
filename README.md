@@ -9,7 +9,7 @@ Currently
 🛠️ Working with Java, Python, JavaScript/TypeScript, SQL, and React  
 🔎 Exploring opportunities in Software Development, QA, and Data  
 
-Featured Projects
+Featured Projects  
 🌱 Bloom Buddy — Habit tracking application with progress and plant-growth feedback  
 🎮 NanoCraft RPG — 2D Java RPG built around OOP and game-development concepts  
 📊 Hotel Data Automation — Data processing and automation project  
